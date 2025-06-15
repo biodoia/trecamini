@@ -1,0 +1,776 @@
+00:00:00,579 --> 00:00:02,599 [Speaker 0]
+[rumore di carta] Allora, eee qua
+
+00:00:02,659 --> 00:00:03,679 [Speaker 0]
+bisogna...
+
+00:00:09,179 --> 00:00:11,100 [Speaker 0]
+Qua bisogna praticamente vedere
+
+00:00:13,059 --> 00:00:13,539 [Speaker 0]
+come
+
+00:00:15,119 --> 00:00:15,839 [Speaker 0]
+migliorare
+
+00:00:17,119 --> 00:00:18,140 [Speaker 0]
+tutte le procedure
+
+00:00:18,879 --> 00:00:19,659 [Speaker 0]
+del ristorante.
+
+00:00:20,359 --> 00:00:22,059 [Speaker 0]
+Per un APC praticamente opera
+
+00:00:22,719 --> 00:00:25,940 [Speaker 0]
+con un attento lavoro di valutazione
+
+00:00:26,479 --> 00:00:27,299 [Speaker 0]
+preventiva.
+
+00:00:28,719 --> 00:00:30,479 [Speaker 0]
+Noi cerchiamo di costruire cose attorno
+
+00:00:30,500 --> 00:00:32,119 [Speaker 0]
+alla esigenza del cliente, non a vendere
+
+00:00:32,119 --> 00:00:33,339 [Speaker 0]
+determinati prodotti, perché
+
+00:00:34,500 --> 00:00:36,079 [Speaker 0]
+non siam venditori, non saremo lì a
+
+00:00:36,079 --> 00:00:37,819 [Speaker 0]
+cercare di pusharvi qualche cosa, non
+
+00:00:37,860 --> 00:00:40,379 [Speaker 0]
+siamo lì a guadagnarci licenze su vari
+
+00:00:40,399 --> 00:00:42,599 [Speaker 0]
+software, non ci piace quel tipo di
+
+00:00:42,619 --> 00:00:43,100 [Speaker 0]
+approccio.
+
+00:00:44,000 --> 00:00:45,120 [Speaker 0]
+Quindi, per un APC cosa fa?
+
+00:00:46,399 --> 00:00:48,639 [Speaker 0]
+È come andare dal sarto e andare a farsi
+
+00:00:48,639 --> 00:00:50,239 [Speaker 0]
+completamente un intero guardaroba.
+
+00:00:52,119 --> 00:00:53,560 [Speaker 0]
+Io devo avere--
+
+00:00:54,399 --> 00:00:55,979 [Speaker 0]
+Raccogliere tutte le informazioni per
+
+00:00:56,000 --> 00:00:57,360 [Speaker 0]
+quanto riguarda il contesto del vostro
+
+00:00:57,360 --> 00:01:01,979 [Speaker 0]
+ristorante e vedere quali sono le aree
+
+00:01:02,000 --> 00:01:04,079 [Speaker 0]
+migliorabili. E di sicuro ce ne sono.
+
+00:01:05,239 --> 00:01:06,700 [Speaker 0]
+E lo si può fare anche dal punto di vista
+
+00:01:06,780 --> 00:01:08,559 [Speaker 0]
+tecnologico, per avere qualche cosa che
+
+00:01:08,619 --> 00:01:10,599 [Speaker 0]
+sia migliore, ad esempio la copertura WiFi
+
+00:01:10,639 --> 00:01:12,219 [Speaker 0]
+che sia uniforme dappertutto, internet
+
+00:01:12,219 --> 00:01:13,319 [Speaker 0]
+funzioni bene nel posto,
+
+00:01:13,980 --> 00:01:15,940 [Speaker 0]
+che in teoria è molto importante, avere
+
+00:01:15,940 --> 00:01:17,819 [Speaker 0]
+una rete di qualità senza svenarsi con
+
+00:01:17,819 --> 00:01:19,379 [Speaker 0]
+dispositivi costosissimi, dato che io
+
+00:01:19,379 --> 00:01:20,899 [Speaker 0]
+utilizzo soprattutto tecnologie open
+
+00:01:20,959 --> 00:01:21,319 [Speaker 0]
+source
+
+00:01:22,020 --> 00:01:23,980 [Speaker 0]
+e vado a creare cose
+
+00:01:25,200 --> 00:01:27,140 [Speaker 0]
+modificate, ma non al lato cugino, per
+
+00:01:27,179 --> 00:01:29,139 [Speaker 0]
+capirsi. Cioè sono cose modificate in
+
+00:01:29,159 --> 00:01:31,040 [Speaker 0]
+maniera molto professionale perché vanno a
+
+00:01:31,400 --> 00:01:32,819 [Speaker 0]
+seguire le best common practice di quelli
+
+00:01:32,819 --> 00:01:33,140 [Speaker 0]
+che sono
+
+00:01:35,020 --> 00:01:37,379 [Speaker 0]
+solitamente gli stessi ingegneri dei vari
+
+00:01:37,380 --> 00:01:39,819 [Speaker 0]
+prodotti che hanno, preferiscono dei
+
+00:01:39,819 --> 00:01:41,380 [Speaker 0]
+firmware universalizzabili
+
+00:01:42,339 --> 00:01:43,880 [Speaker 0]
+per poter sbloccare le funzionalità o
+
+00:01:43,880 --> 00:01:44,800 [Speaker 0]
+renderlo più stabile.
+
+00:01:45,540 --> 00:01:46,099 [Speaker 0]
+Ad esempio,
+
+00:01:47,139 --> 00:01:48,119 [Speaker 0]
+una volta identificate
+
+00:01:48,860 --> 00:01:51,759 [Speaker 0]
+le-le cose che ci servono, ad esempio, per
+
+00:01:51,779 --> 00:01:52,679 [Speaker 0]
+una rete utenti,
+
+00:01:53,599 --> 00:01:55,999 [Speaker 0]
+una rete utenti dovrà per i clienti, no?
+
+00:01:56,079 --> 00:01:57,439 [Speaker 0]
+Che arrivano e vogliono il WiFi.
+
+00:01:58,599 --> 00:01:59,040 [Speaker 0]
+Quello
+
+00:01:59,739 --> 00:02:02,239 [Speaker 0]
+avrà determinate richieste di-di potenza
+
+00:02:03,359 --> 00:02:05,139 [Speaker 0]
+e determinate richieste di sicurezza e
+
+00:02:05,139 --> 00:02:06,619 [Speaker 0]
+quindi verrà ottimizzato rispetto
+
+00:02:08,179 --> 00:02:10,959 [Speaker 0]
+a-alla rete interna per la gestione delle
+
+00:02:10,979 --> 00:02:12,419 [Speaker 0]
+comande, robe del genere, che hanno delle
+
+00:02:12,439 --> 00:02:13,159 [Speaker 0]
+altre feature.
+
+00:02:13,979 --> 00:02:15,619 [Speaker 0]
+Io tendo a separare e specializzare i
+
+00:02:15,639 --> 00:02:16,179 [Speaker 0]
+campi, no?
+
+00:02:17,399 --> 00:02:19,539 [Speaker 0]
+In modo da non sprecare niente e avere il
+
+00:02:19,619 --> 00:02:22,079 [Speaker 0]
+massimo di quello che si può avere, anche
+
+00:02:22,139 --> 00:02:23,819 [Speaker 0]
+con dispositivi-- Cioè, ci sono degli
+
+00:02:23,819 --> 00:02:25,739 [Speaker 0]
+access point da 700 € che fanno bene
+
+00:02:25,779 --> 00:02:27,719 [Speaker 0]
+tutto, ma si incasinano lo stesso.
+
+00:02:28,519 --> 00:02:29,960 [Speaker 0]
+Invece se mettiamo una serie di access
+
+00:02:29,960 --> 00:02:30,440 [Speaker 0]
+point
+
+00:02:31,299 --> 00:02:33,440 [Speaker 0]
+da 100 € o usiamo quelli che ci sono già,
+
+00:02:33,460 --> 00:02:35,320 [Speaker 0]
+vediam quello che c'è, e
+
+00:02:36,579 --> 00:02:37,159 [Speaker 0]
+per la retee
+
+00:02:38,079 --> 00:02:40,539 [Speaker 0]
+clienti, e un'altra serie da 100 € per la
+
+00:02:40,539 --> 00:02:40,839 [Speaker 0]
+rete
+
+00:02:41,719 --> 00:02:43,479 [Speaker 0]
+su canali differenti, in modo che non
+
+00:02:43,479 --> 00:02:45,139 [Speaker 0]
+vadano assolutamente a cozzarsi, capite
+
+00:02:45,139 --> 00:02:47,600 [Speaker 0]
+che abbiamo qualcosa di veramente più-più
+
+00:02:47,619 --> 00:02:48,239 [Speaker 0]
+avanzato.
+
+00:02:49,940 --> 00:02:52,539 [Speaker 0]
+Poi si potrebbe fare tutta una serie di
+
+00:02:52,600 --> 00:02:54,999 [Speaker 0]
+gestione del magazzino automatizzata, con
+
+00:02:54,999 --> 00:02:56,299 [Speaker 0]
+anche comunicazioni con intelligenza
+
+00:02:56,299 --> 00:02:57,359 [Speaker 0]
+artificiale, automatizzate con i
+
+00:02:57,359 --> 00:02:58,019 [Speaker 0]
+fornitori.
+
+00:02:58,719 --> 00:03:00,419 [Speaker 0]
+Si possono scrivere mail che sono dal
+
+00:03:00,419 --> 00:03:03,239 [Speaker 0]
+punto di vista pragmatico, cioè formale,
+
+00:03:03,239 --> 00:03:03,659 [Speaker 0]
+che sono
+
+00:03:04,619 --> 00:03:06,859 [Speaker 0]
+perfette e pare che le abbia scritte un
+
+00:03:06,859 --> 00:03:07,719 [Speaker 0]
+vostro dipendente.
+
+00:03:08,579 --> 00:03:10,199 [Speaker 0]
+Si possono ottimizzare tutte quelle cose
+
+00:03:10,219 --> 00:03:10,579 [Speaker 0]
+lì.
+
+00:03:12,539 --> 00:03:14,259 [Speaker 0]
+Ehm,
+
+00:03:15,159 --> 00:03:16,539 [Speaker 0]
+cioè io riesco a fare cose altamente
+
+00:03:16,539 --> 00:03:18,399 [Speaker 0]
+tecnologiche che poi all'uso del cliente
+
+00:03:18,439 --> 00:03:19,599 [Speaker 0]
+sono perfette per persone che di
+
+00:03:19,619 --> 00:03:21,139 [Speaker 0]
+tecnologia è un ca-- non sanno un cazzo,
+
+00:03:21,139 --> 00:03:22,819 [Speaker 0]
+cioè non deve sapere niente il cli-- non
+
+00:03:22,879 --> 00:03:23,159 [Speaker 0]
+deve,
+
+00:03:24,579 --> 00:03:26,239 [Speaker 0]
+n-non deve essere una rottura di coglioni
+
+00:03:26,259 --> 00:03:27,459 [Speaker 0]
+in più, c-ci capiamo?
+
+00:03:28,319 --> 00:03:30,459 [Speaker 0]
+Io vado aaa semplificare il tutto.
+
+00:03:45,939 --> 00:03:47,119 [Speaker 0]
+Ad esempio mi ha detto che c'è un ragazzo
+
+00:03:47,119 --> 00:03:49,099 [Speaker 0]
+che gestisce le varie comunicazioni,
+
+00:03:49,099 --> 00:03:49,759 [Speaker 0]
+eccetera eccetera,
+
+00:03:50,459 --> 00:03:50,879 [Speaker 0]
+va bene,
+
+00:03:51,619 --> 00:03:53,259 [Speaker 0]
+questo sarà chi è che vale il sistema
+
+00:03:53,259 --> 00:03:55,119 [Speaker 0]
+informatico, bene, lui mi darà le varie
+
+00:03:55,119 --> 00:03:56,439 [Speaker 0]
+credenziali, mi dirà quello che c'è da
+
+00:03:56,459 --> 00:03:59,859 [Speaker 0]
+fare. Io probabilmente proporrò anche di
+
+00:03:59,859 --> 00:04:02,039 [Speaker 0]
+stravolgere determinate cose, vediamo.
+
+00:04:03,119 --> 00:04:04,859 [Speaker 0]
+Tutto si può fare ragazzi, io ho delle
+
+00:04:04,879 --> 00:04:05,439 [Speaker 0]
+competenze che
+
+00:04:06,259 --> 00:04:08,339 [Speaker 0]
+spaziano veramente tanto, tanto, tanto in
+
+00:04:08,359 --> 00:04:08,979 [Speaker 0]
+tanti campi.
+
+00:04:10,979 --> 00:04:11,459 [Speaker 0]
+Quindi
+
+00:04:12,119 --> 00:04:13,079 [Speaker 0]
+cerco di avere delle visioni
+
+00:04:13,079 --> 00:04:14,919 [Speaker 0]
+omnicomprensive di quello che può essere.
+
+00:04:15,659 --> 00:04:18,099 [Speaker 0]
+Non vi faccio svenare economicamente, ee
+
+00:04:18,439 --> 00:04:20,479 [Speaker 0]
+vi porto a una transizione verso sistemi
+
+00:04:21,439 --> 00:04:23,359 [Speaker 0]
+che sono i più indipendenti possibili,
+
+00:04:23,379 --> 00:04:24,839 [Speaker 0]
+senza dover pagare dei continui
+
+00:04:25,079 --> 00:04:26,079 [Speaker 0]
+subscription.
+
+00:04:29,119 --> 00:04:31,119 [Speaker 0]
+Deve funzionare bene per il vostro posto e
+
+00:04:31,119 --> 00:04:32,979 [Speaker 0]
+basta. È inutile avere 800 milioni di
+
+00:04:33,039 --> 00:04:34,219 [Speaker 0]
+moduli che non userete mai.
+
+00:04:35,119 --> 00:04:36,959 [Speaker 0]
+Dobbiamo concentrarsi sull'essenziale,
+
+00:04:37,019 --> 00:04:39,539 [Speaker 0]
+quello che dovete volere voi. Poi
+
+00:04:40,439 --> 00:04:41,799 [Speaker 0]
+potete anche addirittura
+
+00:04:42,739 --> 00:04:45,899 [Speaker 0]
+osare a-ad aggiungere cose, no?
+
+00:04:46,819 --> 00:04:48,079 [Speaker 0]
+No, voi ovviamente fate una lista di
+
+00:04:48,099 --> 00:04:48,759 [Speaker 0]
+desideri.
+
+00:04:49,779 --> 00:04:51,299 [Speaker 0]
+Non-non dovete chiedermi che cos'è che hai
+
+00:04:51,299 --> 00:04:53,859 [Speaker 0]
+da vendermi, Sergio. È piuttosto è: cos'è
+
+00:04:53,859 --> 00:04:55,479 [Speaker 0]
+che vorresti fare? Cioè, come è che te la
+
+00:04:55,479 --> 00:04:57,319 [Speaker 0]
+immagini la semplificazione del lavoro
+
+00:04:57,339 --> 00:05:01,079 [Speaker 0]
+de-del futuro? Che addirittura mentre uno
+
+00:05:01,119 --> 00:05:03,319 [Speaker 0]
+ti-ti detta le comande tu neanche gli le
+
+00:05:03,319 --> 00:05:06,219 [Speaker 0]
+devi scrivere e un registratore le sente
+
+00:05:06,219 --> 00:05:07,899 [Speaker 0]
+direttamente e te le manda da di te in
+
+00:05:07,959 --> 00:05:08,339 [Speaker 0]
+cucina
+
+00:05:08,979 --> 00:05:10,399 [Speaker 0]
+con l'ordine... E un'intelligenza
+
+00:05:10,419 --> 00:05:12,359 [Speaker 0]
+artificiale intanto aiuta e coordina il
+
+00:05:12,379 --> 00:05:14,579 [Speaker 0]
+capo chef per uscire con le comande giuste
+
+00:05:14,919 --> 00:05:16,459 [Speaker 0]
+e riesce a reagire in tempo reale.
+
+00:05:17,459 --> 00:05:19,179 [Speaker 0]
+Che è un lavoro complicatissimo da fare,
+
+00:05:19,179 --> 00:05:20,479 [Speaker 0]
+che è un lavoro che è stancantissimo
+
+00:05:20,499 --> 00:05:22,539 [Speaker 0]
+mentalmente e ci vogliono anni, anni, anni
+
+00:05:22,539 --> 00:05:23,319 [Speaker 0]
+di esperienza per
+
+00:05:24,359 --> 00:05:26,439 [Speaker 0]
+arrivarci. Avere un software, ad esempio,
+
+00:05:26,439 --> 00:05:28,359 [Speaker 0]
+che vi monitora e impara da voi come
+
+00:05:28,419 --> 00:05:29,399 [Speaker 0]
+funziona il locale,
+
+00:05:30,619 --> 00:05:32,899 [Speaker 0]
+sono cose che crescono con voi. È molto
+
+00:05:32,919 --> 00:05:34,559 [Speaker 0]
+affascinante perché avere un dipendente
+
+00:05:34,679 --> 00:05:36,019 [Speaker 0]
+virtuale cheee
+
+00:05:37,079 --> 00:05:38,119 [Speaker 0]
+è uno schiavo, non-non
+
+00:05:38,739 --> 00:05:40,339 [Speaker 0]
+gli devi pagare lo stipendio, lavora
+
+00:05:40,379 --> 00:05:41,379 [Speaker 0]
+ventiquattro ore su ventiquattro.
+
+00:05:42,179 --> 00:05:44,099 [Speaker 0]
+E questo non fa altro che monitorare tutto
+
+00:05:44,119 --> 00:05:46,259 [Speaker 0]
+il vostro locale costantemente per
+
+00:05:46,279 --> 00:05:46,819 [Speaker 0]
+capire,
+
+00:05:47,579 --> 00:05:47,979 [Speaker 0]
+ehm,
+
+00:05:49,299 --> 00:05:50,779 [Speaker 0]
+se qualcosa è arrivato in ritardo, anche
+
+00:05:50,779 --> 00:05:51,739 [Speaker 0]
+dai vari clienti,
+
+00:05:52,739 --> 00:05:54,159 [Speaker 0]
+dov'è che si può ottimizzare,
+
+00:05:55,339 --> 00:05:57,739 [Speaker 0]
+quali tipi di-di-di-di strade è troppo
+
+00:05:57,739 --> 00:05:58,619 [Speaker 0]
+lontano al frigorifero.
+
+00:05:59,699 --> 00:06:03,035 [Speaker 0]
+Ci sono tutta una serie di cose.Che si
+
+00:06:03,035 --> 00:06:05,755 [Speaker 0]
+possono andare a monitorizzare e eh, a
+
+00:06:05,815 --> 00:06:08,155 [Speaker 0]
+migliorare. Cioè la telecamera dentro il
+
+00:06:08,235 --> 00:06:08,695 [Speaker 0]
+frigo
+
+00:06:09,755 --> 00:06:11,516 [Speaker 0]
+che ti fa vedere costantemente quante cose
+
+00:06:11,516 --> 00:06:12,835 [Speaker 0]
+ci sono, perché oramai riesci anche a
+
+00:06:12,855 --> 00:06:13,715 [Speaker 0]
+riconoscerle sai?
+
+00:06:18,935 --> 00:06:19,295 [Speaker 0]
+Perché
+
+00:06:20,816 --> 00:06:22,335 [Speaker 0]
+riesce a vedere con le immagini che cosa
+
+00:06:22,375 --> 00:06:23,775 [Speaker 0]
+sono, poi impara sempre a vedere sempre
+
+00:06:23,816 --> 00:06:24,195 [Speaker 0]
+meglio.
+
+00:06:25,736 --> 00:06:27,115 [Speaker 0]
+C'è un'interfaccia, tu gli dici: "No
+
+00:06:27,115 --> 00:06:28,235 [Speaker 0]
+guarda, questa non è una cassetta di
+
+00:06:28,235 --> 00:06:29,955 [Speaker 0]
+frutta, questa è una cassetta de-des
+
+00:06:29,955 --> 00:06:31,955 [Speaker 0]
+correse", e lui si capisce.
+
+00:06:33,435 --> 00:06:34,195 [Speaker 0]
+La volta dopo.
+
+00:06:35,775 --> 00:06:38,216 [Speaker 0]
+Questi sono i tool che abbiamo, perché il
+
+00:06:38,255 --> 00:06:39,676 [Speaker 0]
+bello dell'intelligenza artificiale è che
+
+00:06:39,695 --> 00:06:40,955 [Speaker 0]
+sono-sono flessibili,
+
+00:06:41,996 --> 00:06:45,515 [Speaker 0]
+quindi si adattano, sono meno stupide dei
+
+00:06:45,535 --> 00:06:47,195 [Speaker 0]
+programmi classici che quando
+
+00:06:47,195 --> 00:06:47,755 [Speaker 1]
+[rumore di camion in sottofondo]
+
+00:06:47,755 --> 00:06:48,656 [Speaker 0]
+seicoda, i seicoda.
+
+00:06:49,675 --> 00:06:52,595 [Speaker 0]
+Queste se inventa un'altra stradaaa, si fa
+
+00:06:52,615 --> 00:06:53,515 [Speaker 0]
+mmm,
+
+00:06:54,156 --> 00:06:55,775 [Speaker 0]
+se vanno in crisi te lo chiedono,
+
+00:06:56,476 --> 00:06:57,895 [Speaker 0]
+non è che si piantan e basta.
+
+00:06:58,535 --> 00:07:00,435 [Speaker 0]
+Possiamo mettere ad esempio che arrivi un
+
+00:07:00,435 --> 00:07:01,975 [Speaker 0]
+messaggino sul cellulare di qualcuno
+
+00:07:02,855 --> 00:07:05,396 [Speaker 0]
+ogni volta che mancano il 20% di cose,
+
+00:07:05,396 --> 00:07:05,575 [Speaker 0]
+cioè
+
+00:07:06,255 --> 00:07:07,915 [Speaker 0]
+vi assiste nel conteggio di ciò che
+
+00:07:08,755 --> 00:07:10,475 [Speaker 0]
+rimane, evita che ti vada a scadenza le
+
+00:07:10,515 --> 00:07:10,855 [Speaker 0]
+cose.
+
+00:07:12,116 --> 00:07:13,295 [Speaker 0]
+Ti può dire guarda che oggi
+
+00:07:14,275 --> 00:07:16,235 [Speaker 0]
+dovete assolutamente pushare su questi
+
+00:07:16,255 --> 00:07:17,815 [Speaker 0]
+prodotti della casa perché bisogna far
+
+00:07:17,836 --> 00:07:18,676 [Speaker 0]
+fuori questi ingredienti.
+
+00:07:20,115 --> 00:07:22,175 [Speaker 0]
+Sono tutte cose che hai sempre-- Che avete
+
+00:07:22,195 --> 00:07:22,876 [Speaker 0]
+sempre fatto
+
+00:07:24,395 --> 00:07:25,375 [Speaker 0]
+e, eeeh,
+
+00:07:26,295 --> 00:07:28,276 [Speaker 0]
+senza neanche fidarsi al 100%, perché poi
+
+00:07:28,295 --> 00:07:29,875 [Speaker 0]
+non voglio rubare il lavoro a tuo padre.
+
+00:07:30,255 --> 00:07:32,196 [Speaker 0]
+Lui si vede questo la mattina, hai capito,
+
+00:07:32,315 --> 00:07:34,416 [Speaker 0]
+fa un salto giù in frigo, tanto l'ha già
+
+00:07:34,435 --> 00:07:36,656 [Speaker 0]
+letto, e controlla che sia come gliel'ha
+
+00:07:36,676 --> 00:07:39,176 [Speaker 0]
+detto. Ok, ci mette di meno che spostare
+
+00:07:39,196 --> 00:07:40,635 [Speaker 0]
+tutte le cassette a mano, hai capito?
+
+00:07:44,016 --> 00:07:44,255 [Speaker 0]
+Eee
+
+00:07:45,275 --> 00:07:47,595 [Speaker 0]
+se no dice "ah no moro dio cante s'è
+
+00:07:47,676 --> 00:07:48,856 [Speaker 0]
+sbajata'sta roba qua"
+
+00:07:49,875 --> 00:07:51,696 [Speaker 0]
+e il direttente di cosa fa? Glielo
+
+00:07:51,715 --> 00:07:53,875 [Speaker 0]
+programmo che lui gli scrive un Telegram o
+
+00:07:53,875 --> 00:07:56,575 [Speaker 0]
+un WhatsApp alla macchina, gli fa anche
+
+00:07:56,575 --> 00:07:58,215 [Speaker 0]
+la foto e gli dice "guarda coglione che
+
+00:07:58,315 --> 00:08:00,415 [Speaker 0]
+qua non hai mica capito niente".
+
+00:08:01,575 --> 00:08:04,335 [Speaker 0]
+Il sistema poi è così intelligente che lui
+
+00:08:04,815 --> 00:08:07,395 [Speaker 0]
+vede, capisce, capisce che si parla del
+
+00:08:07,416 --> 00:08:09,215 [Speaker 0]
+discorso del riordino all'interno della
+
+00:08:09,215 --> 00:08:10,016 [Speaker 0]
+gerra frigo,
+
+00:08:12,215 --> 00:08:13,336 [Speaker 0]
+e eh
+
+00:08:14,656 --> 00:08:17,275 [Speaker 0]
+va a ributtare un ticket a me, ad esempio,
+
+00:08:17,336 --> 00:08:18,315 [Speaker 0]
+e mi dice "guarda che c'è da
+
+00:08:18,315 --> 00:08:20,236 [Speaker 0]
+riprogrammare quella parte là" perché si
+
+00:08:20,295 --> 00:08:21,935 [Speaker 0]
+possono aggiungere delle featuring. Io mi
+
+00:08:21,955 --> 00:08:22,535 [Speaker 0]
+connetto,
+
+00:08:23,915 --> 00:08:25,055 [Speaker 0]
+programmavo qualche cosa,
+
+00:08:27,016 --> 00:08:27,595 [Speaker 0]
+e via.
+
+00:08:30,315 --> 00:08:31,595 [Speaker 0]
+Quando sarà abbastanza stabile posso
+
+00:08:31,595 --> 00:08:32,835 [Speaker 0]
+addirittura vendere il sistema di
+
+00:08:32,876 --> 00:08:34,135 [Speaker 0]
+autoprogrammazione, però
+
+00:08:34,935 --> 00:08:36,615 [Speaker 0]
+cominciano a essere un pochettino...
+
+00:08:37,735 --> 00:08:39,835 [Speaker 0]
+Cioè lì la fatturazione è ogni volta che
+
+00:08:39,836 --> 00:08:41,975 [Speaker 0]
+viene aggiuntaaa un-una feature
+
+00:08:44,475 --> 00:08:45,815 [Speaker 0]
+e viene usato quel sistema lì, quello a
+
+00:08:45,815 --> 00:08:46,415 [Speaker 0]
+pagamento.
+
+00:08:49,795 --> 00:08:51,995 [Speaker 0]
+Oltre all'abbonamento comunque del
+
+00:08:52,016 --> 00:08:53,755 [Speaker 0]
+servizio, se vi faccio un sistema del
+
+00:08:53,755 --> 00:08:54,475 [Speaker 0]
+genere. Ma
+
+00:08:55,215 --> 00:08:57,435 [Speaker 0]
+non so neanche se fare abbonamento perché
+
+00:08:57,435 --> 00:08:59,135 [Speaker 0]
+li metto sui miei server in local in
+
+00:08:59,435 --> 00:09:01,595 [Speaker 0]
+remoto oppure se ve lo faccio on premise
+
+00:09:01,595 --> 00:09:02,135 [Speaker 0]
+del tutto
+
+00:09:03,175 --> 00:09:04,495 [Speaker 0]
+con i server lì.
+
+00:09:05,215 --> 00:09:06,875 [Speaker 0]
+Anche perché i serverini adesso si possono
+
+00:09:06,895 --> 00:09:09,515 [Speaker 0]
+comprare delle macchinette quadrateee,
+
+00:09:10,816 --> 00:09:12,335 [Speaker 0]
+computer da gioco, quelli cinesi da
+
+00:09:12,335 --> 00:09:13,055 [Speaker 0]
+salotto piccoli,
+
+00:09:14,475 --> 00:09:16,735 [Speaker 0]
+che sono 15 per 15 per 8.
+
+00:09:17,395 --> 00:09:19,015 [Speaker 0]
+E quelle macchinette lì ragazzi,
+
+00:09:19,775 --> 00:09:20,275 [Speaker 0]
+leee
+
+00:09:21,096 --> 00:09:26,535 [Speaker 0]
+mettete 6-7, dio Cristo, e fanno su unaaa,
+
+00:09:27,115 --> 00:09:27,715 [Speaker 0]
+una rete di
+
+00:09:27,736 --> 00:09:29,095 [Speaker 0]
+server da paura.
