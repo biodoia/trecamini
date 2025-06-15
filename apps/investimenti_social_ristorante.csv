@@ -1,0 +1,19 @@
+Categoria,Servizio,Costo_Min_EUR,Costo_Max_EUR,Frequenza,ROI_Atteso_Perc,Tempo_Risultati_Mesi
+Social Media Manager,Silver (8 post/mese),140,140,Mensile,15,3
+Social Media Manager,Golden (12 post/mese),380,380,Mensile,25,2
+Social Media Manager,Diamond (12 post + extra),590,590,Mensile,35,1
+Video Aziendali,Video breve (30sec-1min),500,1500,Una tantum,20,1
+Video Aziendali,Video medio (2-5min),2000,8000,Una tantum,30,1
+Video Aziendali,Video lungo (10+min),5000,15000,Una tantum,40,1
+Food Photography,Attrezzatura base,300,800,Una tantum,25,1
+Food Photography,Setup professionale,1500,4000,Una tantum,35,1
+Food Photography,Corso formazione,200,500,Una tantum,15,2
+Facebook Ads,Budget minimo giornaliero,25,50,Giornaliero,30,1
+Facebook Ads,Budget consigliato,40,100,Giornaliero,45,1
+Google Ads,Budget minimo Google,30,80,Giornaliero,35,1
+Influencer Marketing,Micro-influencer locale,200,800,Per campagna,40,1
+Influencer Marketing,Food blogger medio,800,2500,Per campagna,60,1
+Influencer Marketing,Influencer top,2000,8000,Per campagna,80,1
+Attrezzature Base,Smartphone + accessori,500,1200,Una tantum,10,2
+Attrezzature Video,Reflex + ottiche,2500,8000,Una tantum,20,1
+Formazione Staff,Workshop team,300,800,Una tantum,25,3

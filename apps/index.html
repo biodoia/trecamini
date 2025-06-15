@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preventivo Social Media Marketing - Antico Casale Tre Camini</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1 class="header__title">Preventivo Social Media Marketing</h1>
+            <h2 class="header__subtitle">Antico Casale Tre Camini</h2>
+            <p class="header__description">Calcola il tuo investimento e i benefici attesi</p>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Left Column - Parameters -->
+            <div class="parameters-section">
+                <div class="card">
+                    <div class="card__header">
+                        <h3>Configura il tuo Piano</h3>
+                    </div>
+                    <div class="card__body">
+                        <!-- Budget Social Media Manager -->
+                        <div class="form-group">
+                            <label class="form-label" for="social-manager-budget">
+                                Budget Social Media Manager mensile
+                                <span class="tooltip" data-tooltip="Gestione contenuti, community management e strategia social">ℹ️</span>
+                            </label>
+                            <input type="range" id="social-manager-budget" class="slider" min="140" max="590" value="380" step="10">
+                            <div class="slider-display">
+                                <span class="slider-value">€380</span>
+                                <span class="slider-tier">Golden</span>
+                            </div>
+                        </div>
+
+                        <!-- Budget Advertising -->
+                        <div class="form-group">
+                            <label class="form-label" for="advertising-budget">
+                                Budget Advertising mensile
+                                <span class="tooltip" data-tooltip="Investimento in Facebook Ads, Instagram Ads e Google Ads">ℹ️</span>
+                            </label>
+                            <input type="range" id="advertising-budget" class="slider" min="300" max="2000" value="800" step="50">
+                            <div class="slider-display">
+                                <span class="slider-value">€800</span>
+                            </div>
+                        </div>
+
+                        <!-- Investimento Video/Foto -->
+                        <div class="form-group">
+                            <label class="form-label" for="content-budget">
+                                Investimento Video/Foto una tantum
+                                <span class="tooltip" data-tooltip="Produzione contenuti video e fotografici professionali">ℹ️</span>
+                            </label>
+                            <input type="range" id="content-budget" class="slider" min="500" max="8000" value="3000" step="100">
+                            <div class="slider-display">
+                                <span class="slider-value">€3.000</span>
+                            </div>
+                        </div>
+
+                        <!-- Collaborazioni Influencer -->
+                        <div class="form-group">
+                            <label class="form-label" for="influencer-budget">
+                                Collaborazioni Influencer
+                                <span class="tooltip" data-tooltip="Partnership con food blogger e influencer locali">ℹ️</span>
+                            </label>
+                            <input type="range" id="influencer-budget" class="slider" min="500" max="5000" value="2000" step="100">
+                            <div class="slider-display">
+                                <span class="slider-value">€2.000</span>
+                            </div>
+                        </div>
+
+                        <!-- Durata Progetto -->
+                        <div class="form-group">
+                            <label class="form-label" for="project-duration">Durata Progetto</label>
+                            <select id="project-duration" class="form-control">
+                                <option value="3">3 mesi</option>
+                                <option value="6" selected>6 mesi</option>
+                                <option value="9">9 mesi</option>
+                                <option value="12">12 mesi</option>
+                            </select>
+                        </div>
+
+                        <!-- Servizi Opzionali -->
+                        <div class="form-group">
+                            <label class="form-label">Servizi Opzionali</label>
+                            <div class="checkbox-group">
+                                <label class="checkbox-item">
+                                    <input type="checkbox" id="tiktok-marketing" value="TikTok Marketing">
+                                    <span class="checkmark"></span>
+                                    TikTok Marketing (+€300/mese)
+                                </label>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" id="linkedin-business" value="LinkedIn Business">
+                                    <span class="checkmark"></span>
+                                    LinkedIn Business (+€200/mese)
+                                </label>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" id="email-marketing" value="Email Marketing">
+                                    <span class="checkmark"></span>
+                                    Email Marketing (+€150/mese)
+                                </label>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" id="sistema-crm" value="Sistema CRM">
+                                    <span class="checkmark"></span>
+                                    Sistema CRM (+€400/mese)
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column - Results -->
+            <div class="results-section">
+                <!-- Investment Summary -->
+                <div class="card result-card">
+                    <div class="card__body">
+                        <h3 class="result-title">Investimento Totale</h3>
+                        <div class="result-value primary-value" id="total-investment">€15.480</div>
+                        <div class="result-breakdown" id="investment-breakdown">
+                            <div class="breakdown-item">
+                                <span>Mensile: €1.180</span>
+                                <span>Una tantum: €5.000</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ROI -->
+                <div class="card result-card">
+                    <div class="card__body">
+                        <h3 class="result-title">ROI Atteso</h3>
+                        <div class="result-value success-value" id="expected-roi">45%</div>
+                        <div class="result-description" id="roi-description">
+                            Ritorno sull'investimento stimato nel primo anno
+                        </div>
+                    </div>
+                </div>
+
+                <!-- New Clients -->
+                <div class="card result-card">
+                    <div class="card__body">
+                        <h3 class="result-title">Nuovi Clienti/Mese</h3>
+                        <div class="result-value info-value" id="new-clients">18</div>
+                        <div class="result-description">
+                            Stima basata su engagement e conversioni
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Additional Revenue -->
+                <div class="card result-card">
+                    <div class="card__body">
+                        <h3 class="result-title">Fatturato Aggiuntivo/Anno</h3>
+                        <div class="result-value warning-value" id="additional-revenue">€9.260</div>
+                        <div class="result-description">
+                            Basato su ticket medio €42.90
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Cost Breakdown Chart -->
+                <div class="card">
+                    <div class="card__header">
+                        <h3>Distribuzione Investimenti</h3>
+                    </div>
+                    <div class="card__body">
+                        <div class="chart-container">
+                            <canvas id="costChart" width="300" height="200"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Timeline -->
+                <div class="card">
+                    <div class="card__header">
+                        <h3>Timeline Benefici</h3>
+                    </div>
+                    <div class="card__body">
+                        <div class="timeline">
+                            <div class="timeline-item">
+                                <div class="timeline-marker"></div>
+                                <div class="timeline-content">
+                                    <h4>Mese 1-2</h4>
+                                    <p>Setup e primi risultati (50% efficacia)</p>
+                                </div>
+                            </div>
+                            <div class="timeline-item">
+                                <div class="timeline-marker"></div>
+                                <div class="timeline-content">
+                                    <h4>Mese 3-4</h4>
+                                    <p>Crescita engagement (75% efficacia)</p>
+                                </div>
+                            </div>
+                            <div class="timeline-item">
+                                <div class="timeline-marker active"></div>
+                                <div class="timeline-content">
+                                    <h4>Mese 5+</h4>
+                                    <p>Piena efficacia e ROI massimo</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Action Button -->
+                <div class="action-section">
+                    <button class="btn btn--primary btn--lg btn--full-width" id="request-quote">
+                        Richiedi Preventivo Dettagliato
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div id="quote-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Richiedi Preventivo Dettagliato</h3>
+                <span class="modal-close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <form id="quote-form">
+                    <div class="form-group">
+                        <label class="form-label" for="client-name">Nome e Cognome</label>
+                        <input type="text" id="client-name" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="client-email">Email</label>
+                        <input type="email" id="client-email" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="client-phone">Telefono</label>
+                        <input type="tel" id="client-phone" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="client-message">Note aggiuntive</label>
+                        <textarea id="client-message" class="form-control" rows="3"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn--primary btn--full-width">
+                            Invia Richiesta
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
