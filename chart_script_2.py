@@ -1,55 +1,51 @@
-import pandas as pd
 import plotly.graph_objects as go
+import plotly.io as pio
 
-# Load the data
-df = pd.read_csv("confronto_prestazioni.csv")
+# Data from the provided JSON
+categories = ["Mobile Responsiveness", "Velocità Sito", "SEO Optimization", "User Experience", 
+              "Funzionalità Interactive", "Sistema Prenotazioni", "Integrazione Social", 
+              "Analytics & Tracking", "Sicurezza", "Gestione Contenuti"]
+current_scores = [1, 2, 1, 2, 0, 0, 1, 0, 1, 2]
+proposed_scores = [10, 9, 9, 10, 9, 10, 8, 9, 10, 9]
 
-# Abbreviate metric names to fit 15 character limit
-metric_abbreviations = {
-    "Consumi Energetici (kWh/mese)": "Energy (kWh)",
-    "Sprechi Alimentari (%)": "Food Waste (%)",
-    "Incidenti Sicurezza (eventi/mese)": "Safety Events",
-    "Tempo Controlli HACCP (ore/settimana)": "HACCP (hrs)",
-    "Controllo Remoto (%)": "Remote Ctrl(%)"
-}
+# Better abbreviations to meet 15-character limit while maintaining readability
+abbreviated_cats = ["Mobile Resp", "Velocità Sito", "SEO Optimiz", "User Experience", 
+                   "Funz Interactive", "Sist Prenotaz", "Integraz Social", 
+                   "Analytics Track", "Sicurezza", "Gest Contenuti"]
 
-# Apply abbreviations
-df['Metrica_Short'] = df['Metrica'].map(metric_abbreviations)
-
-# Create the grouped bar chart
+# Create radar chart
 fig = go.Figure()
 
-# Add bars for "Prima_Automazione" (Before Automation) - using moderate red
-fig.add_trace(go.Bar(
-    name='Prima Auto',
-    x=df['Metrica_Short'],
-    y=df['Prima_Automazione'],
-    marker_color='#B4413C',
-    text=df['Prima_Automazione'],
-    textposition='outside',
-    cliponaxis=False
+# Add current scores trace (red as requested)
+fig.add_trace(go.Scatterpolar(
+    r=current_scores,
+    theta=abbreviated_cats,
+    fill='toself',
+    name='Attuale',
+    line_color='red',
+    fillcolor='rgba(255, 0, 0, 0.2)'
 ))
 
-# Add bars for "Dopo_Automazione" (After Automation) - using light green
-fig.add_trace(go.Bar(
-    name='Dopo Auto',
-    x=df['Metrica_Short'],
-    y=df['Dopo_Automazione'],
-    marker_color='#ECEBD5',
-    text=df['Dopo_Automazione'],
-    textposition='outside',
-    cliponaxis=False
+# Add proposed scores trace (green as requested)
+fig.add_trace(go.Scatterpolar(
+    r=proposed_scores,
+    theta=abbreviated_cats,
+    fill='toself',
+    name='Proposto',
+    line_color='green',
+    fillcolor='rgba(0, 128, 0, 0.2)'
 ))
 
 # Update layout
 fig.update_layout(
-    title='Automation Impact - Performance',
-    xaxis_title='Metriche',
-    yaxis_title='Valori',
-    barmode='group',
+    polar=dict(
+        radialaxis=dict(
+            visible=True,
+            range=[0, 10]
+        )),
+    title="Confronto Funzionalità Tecniche",
     legend=dict(orientation='h', yanchor='bottom', y=1.05, xanchor='center', x=0.5)
 )
 
 # Save the chart
-fig.write_image("performance_comparison.png")
-fig.show()
+fig.write_image("radar_chart_restaurant.png")

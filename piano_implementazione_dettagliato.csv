@@ -1,0 +1,19 @@
+Fase,Attività,Durata_Giorni,Costo_Stimato,Responsabile,Priorità
+FASE 1: Analisi e Pianificazione,Audit completo sito attuale,5,800,Project Manager,Alta
+FASE 1: Analisi e Pianificazione,Analisi competitor e benchmark,3,500,UX Designer,Media
+FASE 1: Analisi e Pianificazione,Definizione architettura informazioni,4,600,Information Architect,Alta
+FASE 1: Analisi e Pianificazione,Pianificazione tecnologie e strumenti,3,400,Tech Lead,Alta
+FASE 2: Design e Contenuti,Creazione wireframe e mockup,7,1500,UI Designer,Alta
+FASE 2: Design e Contenuti,Servizio fotografico professionale,5,2000,Fotografo,Alta
+FASE 2: Design e Contenuti,Redazione contenuti ottimizzati SEO,8,1200,Copywriter,Alta
+FASE 2: Design e Contenuti,Progettazione user experience,6,1800,UX Designer,Alta
+FASE 3: Sviluppo Tecnico,Setup hosting e CMS,4,800,DevOps,Alta
+FASE 3: Sviluppo Tecnico,Sviluppo front-end responsive,12,4000,Frontend Developer,Critica
+FASE 3: Sviluppo Tecnico,Integrazione sistemi prenotazione,8,2500,Backend Developer,Critica
+FASE 3: Sviluppo Tecnico,Implementazione funzionalità avanzate,10,3000,Full Stack Developer,Alta
+FASE 4: Integrazione e Testing,Testing cross-browser e dispositivi,5,600,QA Tester,Alta
+FASE 4: Integrazione e Testing,Integrazione analytics e tracking,3,400,SEO Specialist,Alta
+FASE 4: Integrazione e Testing,Ottimizzazione velocità e SEO,4,800,Performance Engineer,Alta
+FASE 5: Lancio e Ottimizzazione,Migrazione contenuti e go-live,3,500,Project Manager,Critica
+FASE 5: Lancio e Ottimizzazione,Training staff e documentazione,2,300,Account Manager,Media
+FASE 5: Lancio e Ottimizzazione,Monitoraggio e prime ottimizzazioni,7,800,Digital Marketing,Alta

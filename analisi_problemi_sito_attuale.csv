@@ -1,0 +1,15 @@
+Categoria,Problema,Impatto_Business,Priorità_Intervento
+Contenuto,"Errori grammaticali evidenti (storiaa, nostraaccogliente)",Alto - Danneggia credibilità e professionalità,Immediata
+Contenuto,Contenuto troppo generico e poco informativo,Alto - Non convince i visitatori a prenotare,Alta
+Contenuto,"Mancanza di informazioni essenziali (menu, prezzi, orari)",Critico - I clienti non trovano info essenziali,Immediata
+Design,Design obsoleto e poco professionale,Alto - Prima impressione negativa,Alta
+Design,Assenza di immagini di qualità,Alto - Non stimola appetito e desiderio,Alta
+Funzionalità,Nessun sistema di prenotazione online,Critico - Perdita diretta di prenotazioni,Immediata
+Funzionalità,Mancanza di integrazione social media,Medio - Mancato engagement e condivisioni,Media
+Funzionalità,Non ottimizzato per mobile,Critico - 70% degli utenti naviga da mobile,Immediata
+SEO,Mancanza di meta description e title ottimizzati,Alto - Invisibilità nei motori di ricerca,Alta
+SEO,Struttura URL non SEO-friendly,Medio - Difficoltà nell'indicizzazione,Media
+User Experience,Navigazione confusa e poco intuitiva,Alto - Aumenta tasso di abbandono,Alta
+User Experience,Caricamento lento delle pagine,Alto - 53% utenti abbandona se >3 secondi,Alta
+Marketing,Assenza di call-to-action efficaci,Alto - Mancata conversione visitatori in clienti,Alta
+Marketing,Mancanza di recensioni e testimonianze,Medio - Perdita di fiducia e credibilità,Media

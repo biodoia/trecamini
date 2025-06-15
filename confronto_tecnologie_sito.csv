@@ -1,0 +1,23 @@
+Categoria,Situazione_Attuale,Soluzione_Proposta,Beneficio_Atteso,Investimento_Stimato
+CMS & Backend,CMS sconosciuto/obsoleto,WordPress/Drupal con tema custom,Gestione contenuti facile e scalabile,"€2,500-4,000"
+CMS & Backend,Hosting condiviso economico,Hosting VPS con CDN,"Velocità +300%, uptime 99.9%",€100-200/mese
+Frontend,HTML/CSS statico,React/Vue.js per interattività,Esperienza utente coinvolgente,"€3,000-5,000"
+Frontend,Non responsive,Design completamente responsive,Accessibilità da tutti i dispositivi,"€1,500-2,500"
+Design,Design datato anni 2000,Design moderno 2024-2025,Immagine professionale e moderna,"€2,000-3,500"
+Design,Immagini di bassa qualità,Fotografia professionale HD,Maggiore appeal visivo,"€1,000-2,000"
+Funzionalità,Nessuna funzionalità interattiva,"Prenotazioni, tour virtuali, chat",Conversioni +150%,"€2,500-4,000"
+Funzionalità,Contatti solo email/telefono,Moduli di contatto intelligenti,Lead generation automatica,"€500-1,000"
+Prenotazioni,Solo telefonico,TheFork/OpenTable integrato,Prenotazioni 24/7 senza intervento,€50-100/mese
+Prenotazioni,Nessuna automazione,Conferme automatiche SMS/email,Riduzione no-show del 40%,€30-50/mese
+Pagamenti,Nessun sistema online,Stripe/PayPal per anticipi,"Anticipo prenotazioni, cash flow",€100-200/mese
+Pagamenti,Solo contanti/POS fisico,Pagamenti online sicuri,Esperienza cliente premium,2.9% transazioni
+Analytics,Nessun tracking,Google Analytics 4 + heatmaps,Decisioni basate sui dati,€50-100/mese
+Analytics,Nessuna analisi dati,Dashboard analitico custom,ROI marketing ottimizzato,€300-500/mese
+SEO,SEO inesistente,SEO tecnico completo,Visibilità Google +500%,"€1,000-2,000"
+SEO,Meta tag mancanti,Schema markup strutturato,Ranking migliore sui motori,"€500-1,000"
+Sicurezza,Nessun certificato SSL,SSL + firewall avanzato,Protezione dati clienti,€200-400/anno
+Sicurezza,Backup manuali,Backup automatici cloud,Continuità operativa garantita,€50-100/mese
+Performance,Tempi di caricamento lenti,Ottimizzazione avanzata,User experience fluida,"€800-1,500"
+Performance,Server geograficamente distante,CDN multi-continentale,Reach globale ottimizzato,€100-200/mese
+Social Media,Nessuna integrazione,API native social platform,Engagement +200%,€200-400/mese
+Social Media,Presenza social disconnessa,Gestione social unificata,Brand consistency cross-platform,€300-600/mese
