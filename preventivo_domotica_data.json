@@ -1,0 +1,154 @@
+{
+  "investimento_iniziale": 6400,
+  "risparmio_mensile": 3400,
+  "roi_mesi": 1.9,
+  "componenti": {
+    "Componente": [
+      "Server Home Assistant",
+      "Sensori Temperatura HACCP (x8)",
+      "Telecamere Videosorveglianza (x6)",
+      "Sensori Allarme (x12)",
+      "Sirena Intelligente",
+      "Hub Zigbee/Z-Wave",
+      "Integrazione POS",
+      "Installazione e Setup",
+      "Training Personale"
+    ],
+    "Costo_Euro": [
+      350,
+      800,
+      1800,
+      600,
+      200,
+      150,
+      800,
+      1200,
+      500
+    ],
+    "Categoria": [
+      "Hardware Core",
+      "Controllo Qualità",
+      "Sicurezza",
+      "Sicurezza",
+      "Sicurezza",
+      "Hardware Core",
+      "Integrazione Software",
+      "Servizi",
+      "Servizi"
+    ]
+  },
+  "benefici": {
+    "Area": [
+      "Risparmio Energetico",
+      "Riduzione Sprechi Alimentari",
+      "Prevenzione Furti",
+      "Efficienza Operativa",
+      "Controllo Qualità HACCP"
+    ],
+    "Risparmio_Euro_Mese": [
+      1200,
+      800,
+      500,
+      600,
+      300
+    ],
+    "Percentuale_Miglioramento": [
+      35,
+      25,
+      80,
+      20,
+      90
+    ]
+  },
+  "funzionalita": {
+    "Categoria": [
+      "Controllo Climatico",
+      "Controllo Climatico",
+      "Controllo Climatico",
+      "Sicurezza",
+      "Sicurezza",
+      "Sicurezza",
+      "Sicurezza",
+      "Gestione Cucina",
+      "Gestione Cucina",
+      "Gestione Cucina",
+      "Monitoraggio",
+      "Monitoraggio",
+      "Monitoraggio"
+    ],
+    "Funzionalita": [
+      "Termoregolazione Automatica",
+      "Controllo Luci Intelligente",
+      "Gestione Ventilazione",
+      "Videosorveglianza AI",
+      "Sistema Allarme Integrato",
+      "Controllo Accessi",
+      "Rilevamento Intrusioni",
+      "Monitoraggio Temperature HACCP",
+      "Alert Scadenze",
+      "Controllo Frigoriferi",
+      "Dashboard Centralizzata",
+      "Notifiche Mobile",
+      "Report Automatici"
+    ],
+    "Automazione_Level": [
+      9,
+      8,
+      7,
+      10,
+      10,
+      9,
+      10,
+      10,
+      8,
+      9,
+      8,
+      9,
+      7
+    ],
+    "Beneficio": [
+      "35% risparmio energia",
+      "Ambiente accogliente",
+      "Aria sempre pulita",
+      "Sicurezza H24",
+      "Protezione totale",
+      "Solo personale autorizzato",
+      "Allarme immediato",
+      "Conformità HACCP",
+      "Zero scadenze perse",
+      "Temperature sempre ok",
+      "Controllo totale",
+      "Sempre informato",
+      "Dati per decidere"
+    ]
+  },
+  "confronto": {
+    "Metrica": [
+      "Consumi Energetici (kWh/mese)",
+      "Sprechi Alimentari (%)",
+      "Incidenti Sicurezza (eventi/mese)",
+      "Tempo Controlli HACCP (ore/settimana)",
+      "Controllo Remoto (%)",
+      "Efficienza Operativa (%)",
+      "Soddisfazione Staff (%)"
+    ],
+    "Prima_Automazione": [
+      4500,
+      15,
+      2,
+      8,
+      0,
+      65,
+      70
+    ],
+    "Dopo_Automazione": [
+      2900,
+      5,
+      0,
+      2,
+      95,
+      85,
+      90
+    ]
+  }
+}
